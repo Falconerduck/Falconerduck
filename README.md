@@ -14,7 +14,8 @@ $ cat tech_stack.txt
 - Certifications:
   - CompTIA: Security+, ITF+
   - Testout: Security Pro
-  - UCertify CIW: Web Foundation Associate, Network Technology Associate, Site Developemnt Associate, Internet Business Associate
+  - UCertify CIW: Web Foundation Associate, Network Technology Associate
+                  Site Developemnt Associate, Internet Business Associate
 
 $ ls projects
 - AI OCR Study Assistant 📖
