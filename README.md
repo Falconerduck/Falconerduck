@@ -10,7 +10,7 @@ $ cat about_me.txt
 
 $ cat tech_stack.txt
 - Languages: Python, Bash, JavaScript, C++
-- Frameworks & Tools: Metasploit, Nmap, Burp Suite, Hashcat, and importantly: ChatGPT
+- Frameworks & Tools: NIST, Mitre Att&ck, Metasploit, Nmap, Burp Suite, Hashcat
 - Certifications:
   - CompTIA: Security+, ITF+
   - Testout: Security Pro
