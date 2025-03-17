@@ -1,6 +1,6 @@
 ```bash
 $ whoami
-Senior College Student | Resident Assistant | Aspiring Cybersecurity Engineer / Security Analyst / Pentester
+Senior College Student | Resident Assistant | Aspiring Cybersecurity Professional
 
 $ cat about_me.txt
 - 🔍 Exploring Penetration Testing & Cybersecurity
