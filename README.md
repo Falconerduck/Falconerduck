@@ -1,16 +1,26 @@
-## Hi there 👋
+```bash
+$ whoami
+Senior College Student | Resident Assistant | Aspiring Cybersecurity Engineer / Security Analyst / Pentester
 
-<!--
-**Falconerduck/Falconerduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ cat about_me.txt
+- 🔍 Exploring Penetration Testing & Cybersecurity
+- 🎓 Earning certifications to level up my skills
+- 💻 Diving deeper into general coding projects & AI
+- 🛠 Currently creating an AI OCR Study Assistant
 
-Here are some ideas to get you started:
+$ cat tech_stack.txt
+- Languages: Python, Bash, JavaScript, C++
+- Frameworks & Tools: Metasploit, Nmap, Burp Suite, Hashcat, and importantly: ChatGPT
+- Certifications:
+  - CompTIA: Security+, ITF+
+  - Testout: Security Pro
+  - UCertify CIW: Web Foundation Associate, Network Technology Associate, Site Developemnt Associate, Internet Business Associate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ ls projects
+- AI OCR Study Assistant 📖
+- Pentesting Exercises & Writeups for HacktheBox & other CTF sites 🔐
+
+$ echo "Let's connect!"
+Feel free to explore my content (albeit minimal) and contribute!
+```
+
