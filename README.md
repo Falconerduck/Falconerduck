@@ -1,6 +1,6 @@
 ```bash
 $ whoami
-Senior College Student | Resident Assistant | Aspiring Cybersecurity Professional
+Network Security Technician | JMXi
 
 $ cat about_me.txt
 - 🔍 Exploring Penetration Testing & Cybersecurity
@@ -15,7 +15,7 @@ $ cat tech_stack.txt
   - CompTIA: Security+, ITF+
   - Testout: Security Pro
   - UCertify CIW: Web Foundation Associate, Network Technology Associate
-                  Site Developemnt Associate, Internet Business Associate
+                  Site Development Associate, Internet Business Associate
 
 $ ls projects
 - AI OCR Study Assistant
